@@ -1,1 +1,1 @@
-# Data-to-Text-Generation-Of-Radiologist-Reports
+# Data-to-Text-Generation-Of-Radiology-Reports
