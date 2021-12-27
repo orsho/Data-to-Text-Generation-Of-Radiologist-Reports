@@ -5,4 +5,4 @@ Radiology report writing in hospitals is a time-consuming task that also require
 
 summarization of the process we performed and the key changes we made:
 
-<img src="https://github.com/orsho/Data-to-Text-Generation-Of-Radiology-Reports/blob/main/src/report%20flow.png" width="900" height="300">
+<img src="https://github.com/orsho/Data-to-Text-Generation-Of-Radiology-Reports/blob/main/src/report%20flow.png" width="900" height="500">
