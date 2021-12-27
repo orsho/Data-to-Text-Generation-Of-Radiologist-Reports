@@ -6,3 +6,17 @@ Radiology report writing in hospitals is a time-consuming task that also require
 summarization of the process we performed:
 
 <img src="https://github.com/orsho/Data-to-Text-Generation-Of-Radiology-Reports/blob/main/src/report%20flow.png" width="900" height="500">
+
+## Highlighted Features
+
+* The main code is arranged in one [Colab notebook](https://colab.research.google.com/drive/1pdOScB49x6QvImWw_X7K8QWkVdeMypTP)
+* The notebook will work on any python IDE environment but it is best to open it in Colab
+* The notebook is divided into sections for better understanding the experiments and the models - It is recommended to use the side navigation bar in colab
+* This project has 3 main folders:
+  1. Data folder - contains all the files on which we performed the experiments
+  2. Notebook folder - contains all the notebooks we used to create the above data files
+  3. Results folder - contains the results of the experiments for each data file
+
+## Dataset
+
+MIMIC-CXR-JPG - The MIMIC Chest X-ray JPG Database is a large publicly available dataset of chest radiographs in JPG format with structured labels derived from free-text radiology reports. The aim of MIMIC-CXR-JPG is to provide a convenient processed version of MIMIC-CXR, as well as to provide a standard reference for data splits and medical findings organize in structured tables. The dataset contains 377,110 JPG format images and structured labels derived from the 227,827 free-text radiology reports associated with these images. Labels were determined using DL method named 'CheXbert'. 
