@@ -4,3 +4,5 @@ Radiology report writing in hospitals is a time-consuming task that also require
 ## Brief summary of the process and experiments
 
 summarization of the process we performed and the key changes we made:
+
+<img src="report flow.png" width="700" height="300">
